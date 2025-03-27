@@ -37,85 +37,100 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205&" alt="jisanahamed09205" /></p> -->
 
-<!-- Banner Section -->
 <div align="center">
-  <img src="https://i.ibb.co.com/d062GB14/Black-Geometric-Marketing-Expert-Linked-In-Banner-1.png" alt="Banner" style="width:100%; max-width:1200px;"/>
+  <img src="https://i.ibb.co.com/d062GB14/Black-Geometric-Marketing-Expert-Linked-In-Banner-1.png" alt="banner" />
 </div>
 
-<!-- Header Section -->
-<h1 align="center" style="margin-top: 20px;">Hi, I'm Jisan Molla 👋</h1>
-<p align="center" style="font-size: 1.2em; font-weight: 500;">
-  MERN Stack Developer | Passionate about building scalable web applications
-</p>
+<h1 align="center">👋 Hello World! I'm Jisan Molla</h1>
+<h3 align="center">Full Stack Developer | MERN Specialist | Tech Enthusiast</h3>
 
-<!-- Profile Views & Trophy -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jisanahamed09205&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jisanahamed09205" alt="Trophy"/>
-  </a>
-</p>
-
-<!-- Navigation Links -->
-<p align="center">
-  <a href="#about">About Me</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#stats">Stats</a> •
-  <a href="#connect">Connect</a>
-</p>
-
-<hr />
-
-## About Me <a name="about"></a>
-- **Current Project:** Working on **JVerse UI**
-- **Currently Learning:** Next.js & TypeScript
-- **Portfolio:** Explore my projects at [jisanmolla-dev.vercel.app](https://jisanmolla-dev.vercel.app)
-- **Fun Fact:** I might not be the funniest person around, but my code speaks for itself!
-
----
-
-## Skills & Tools <a name="skills"></a>
 <div align="center">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" title="React"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"/>
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" title="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/>
-  <!-- Others -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" title="Firebase"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
-</div>
-
----
-
-## GitHub Stats <a name="stats"></a>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jisanahamed09205&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jisanahamed09205&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## Connect with Me <a name="connect"></a>
-<div align="center">
-  <a href="mailto:jisanahamed09205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jisanahamed09205@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://twitter.com/jisan09205" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/jisan09205?style=for-the-badge&logo=twitter" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/jisanmolla-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fb.com/jisan09205" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </
+  <a href="mailto:jisanahamed09205@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://jisanmolla-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+- **[JVerse UI]** - Modern UI Component Library (Current Project)  
+  `React` `TypeScript` `Storybook` `Styled Components`
+  
+- **[Portfolio Website]** - Professional Developer Portfolio  
+  [Live Demo](https://jisanmolla-dev.vercel.app) | `Next.js` `Tailwind CSS` `Framer Motion`
+
+---
+
+### 🛠 Tech Stack
+
+#### Frontend Expertise
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Backend Proficiency
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 📈 GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jisanahamed09205&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jisanahamed09205&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+### 💡 Currently Learning
+
+- Advanced TypeScript Patterns
+- Next.js 14 App Router Implementation
+- Microservices Architecture
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 Professional: [LinkedIn](https://linkedin.com/in/jisanmolla-dev)
+- 🐦 Quick Chat: [Twitter](https://twitter.com/jisan09205)
+- 🌐 Portfolio: [jisanmolla-dev.vercel.app](https://jisanmolla-dev.vercel.app)
+- 📧 Email: [jisanahamed09205@gmail.com](mailto:jisanahamed09205@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+
+When I'm not coding, you'll find me exploring new tech gadgets or experimenting with Arduino projects! 🕹️
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jisanahamed09205&style=flat-square&color=blue" />
+</div>
