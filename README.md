@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src"https://ibb.co.com/MykpBwB2">
+<img src"https://i.ibb.co.com/GfQkHYHx/Black-Geometric-Marketing-Expert-Linked-In-Banner.png">
 
 **jisanahamed09205/jisanahamed09205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
