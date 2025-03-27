@@ -56,11 +56,11 @@
 
 <table align="center">
   <tr>
-    <td width="48%">
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=jisanahamed09205&show_icons=true&theme=radical&include_all_commits=true" />
     </td>
-    <td width="52%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205&theme=radical&fire=FF801F&currStreakLabel=FF801F" />
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com/?user=jisanahamed09205&theme=radical&fire=FF7F50&ring=FF7F50&currStreakNum=FFFFFF" />
     </td>
   </tr>
 </table>
