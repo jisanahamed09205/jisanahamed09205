@@ -1,5 +1,5 @@
 <img align="center" src="https://i.ibb.co.com/d062GB14/Black-Geometric-Marketing-Expert-Linked-In-Banner-1.png" alt="banner" />
-<h1 align="center">Hi 👋, I'm Jisan</h1>
+<h1 align="center">Hi 👋, I'm Jisan Molla</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jisanahamed09205&label=Profile%20views&color=0e75b6&style=flat" alt="jisanahamed09205" /> </p>
