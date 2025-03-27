@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co.com/GfQkHYHx/Black-Geometric-Marketing-Expert-Linked-In-Banner.png" alt="banner" />
+<img align="center" src="https://i.ibb.co.com/d062GB14/Black-Geometric-Marketing-Expert-Linked-In-Banner-1.png" alt="banner" />
 <h1 align="center">Hi 👋, I'm Jisan</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
