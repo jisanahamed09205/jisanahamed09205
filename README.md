@@ -54,14 +54,6 @@
 
 ### 📈 GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jisanahamed09205&show_icons=true&theme=radical" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205&" alt="GitHub Streak" />
 </div>
@@ -71,6 +63,14 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205&theme=radical" alt="GitHub Streak" />
 </div>
 -->
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jisanahamed09205&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jisanahamed09205&theme=react-dark&hide_border=true" />
