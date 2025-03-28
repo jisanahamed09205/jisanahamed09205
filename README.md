@@ -33,11 +33,11 @@
   <a href="https://github.com/jisanahamed09205/JVerse-UI" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" alt="Source Code">
   </a>
-  <img src="https://img.shields.io/badge/Status-Developing-ff9a00?style=flat&logo=progressive-web-apps&logoColor=white" alt="Status">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js"> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components">
   <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white" alt="Storybook">
+  <img src="https://img.shields.io/badge/Status-Developing-ff9a00?style=flat&logo=progressive-web-apps&logoColor=white" alt="Status">
 
 - 🚀 **[Portfolio Website]** - Professional Developer Portfolio  
   <a href="https://jisanmolla-dev.vercel.app" target="_blank" rel="noopener noreferrer">
