@@ -72,20 +72,20 @@
 ### 📈 GitHub Analytics
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisanahamed09205&layout=compact&theme=radical" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisanahamed09205&layout=compact&theme=react" 
        alt="Top Languages">
 </div>
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jisanahamed09205&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jisanahamed09205&show_icons=true&theme=react" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205&theme=radical" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205&theme=react" alt="GitHub Streak" />
 </div>
 
 <div align="center">
