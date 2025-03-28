@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://i.ibb.co.com/d062GB14/Black-Geometric-Marketing-Expert-Linked-In-Banner-1.png" alt="banner" />
 </div>
@@ -20,15 +21,31 @@
   </a>
 </div>
 
----
+<!-- Horizontal spacer -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🚀 Featured Projects
 
-- **[JVerse UI]** - Modern UI Component Library (Current Project)  
-  `React` `TypeScript` `Storybook` `Styled Components`
-  
-- **[Portfolio Website]** - Professional Developer Portfolio  
-  [Live Demo](https://jisanmolla-dev.vercel.app) | `Next.js` `Tailwind CSS` `Framer Motion`
+- 🧩 **[JVerse UI]** - Modern UI Component Library 🚧 (Currently Working)  
+  <a href="https://your-storybook-demo-link.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Storybook_Demo-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook Demo">
+  </a>
+  <a href="https://github.com/jisanahamed09205/JVerse-UI" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" alt="Source Code">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Developing-ff9a00?style=flat&logo=progressive-web-apps&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js"> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components">
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white" alt="Storybook">
+
+- 🚀 **[Portfolio Website]** - Professional Developer Portfolio  
+  <a href="https://jisanmolla-dev.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo">
+  </a> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion">
 
 ---
 
@@ -54,15 +71,10 @@
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205&" alt="GitHub Streak" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisanahamed09205&layout=compact&theme=radical" 
+       alt="Top Languages">
 </div>
-
-<!-- 
-<div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205&theme=radical" alt="GitHub Streak" />
-</div>
--->
 
 <table align="center">
   <tr>
@@ -71,6 +83,10 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205&theme=radical" alt="GitHub Streak" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jisanahamed09205&theme=react-dark&hide_border=true" />
@@ -86,14 +102,21 @@
 
 ---
 
-### 📫 Let's Connect!
 
-- 💼 Professional: [LinkedIn](https://linkedin.com/in/jisanmolla-dev)
-- 🐦 Quick Chat: [Twitter](https://twitter.com/jisan09205)
-- 🌐 Portfolio: [jisanmolla-dev.vercel.app](https://jisanmolla-dev.vercel.app)
-- 📧 Email: [jisanahamed09205@gmail.com](mailto:jisanahamed09205@gmail.com)
+## 🌐 Let's Connect!
 
----
+<div align="center" style="margin: 2rem 0;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jisanmolla-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_for_Tech_Takes-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jisan09205)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jisanmolla-dev.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Reach_Out_Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jisanahamed09205@gmail.com)
+
+</div>
+
+<!-- Horizontal spacer -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ### ⚡ Fun Fact
 
