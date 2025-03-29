@@ -71,9 +71,9 @@
 
 ### 📈 GitHub Analytics
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisanahamed09205&layout=compact&theme=react" 
-       alt="Top Languages">
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisanahamed09205&layout=compact&theme=react&card_width=600"
+        alt="Top Languages">
 </div>
 
 <table align="center">
@@ -81,12 +81,11 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=jisanahamed09205&show_icons=true&theme=react" />
     </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205&theme=react" alt="GitHub Streak" />
+    </td>
   </tr>
 </table>
-
-<div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisanahamed09205&theme=react" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jisanahamed09205&theme=react-dark&hide_border=true" />
