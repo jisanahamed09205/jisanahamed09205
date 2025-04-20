@@ -95,13 +95,14 @@
 
 ---
 
-### 💡 Currently Learning
+<!-- ### 💡 Currently Learning
 
 - Advanced TypeScript Patterns
 - Next.js 14 App Router Implementation
 - Microservices Architecture
 
 ---
+-->
 
 ## 🌐 Let's Connect!
 
