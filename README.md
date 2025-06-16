@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🚀 Featured Projects
-
+<!--
 - 🧩 **[JVerse UI]** - Modern UI Component Library 🚧 (Currently Working)  
   <a href="https://your-storybook-demo-link.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Storybook_Demo-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook Demo">
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components">
   <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white" alt="Storybook">
   <img src="https://img.shields.io/badge/Status-Developing-ff9a00?style=flat&logo=progressive-web-apps&logoColor=white" alt="Status">
+-->
 
 - 🚀 **[Portfolio Website]** - Professional Developer Portfolio  
   <a href="https://jisanmolla-dev.vercel.app" target="_blank" rel="noopener noreferrer">
